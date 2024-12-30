@@ -35,13 +35,13 @@ nav .logo img {
     max-width: 100%;
     display: block;
 }
-
- 
 @media screen and (max-width: 768px) {
     nav .logo img {
         width: 120px; 
     }
 }
+ 
+
 
 
 
